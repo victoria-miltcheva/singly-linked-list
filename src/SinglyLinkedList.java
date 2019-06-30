@@ -24,7 +24,7 @@ public class SinglyLinkedList<T> implements Iterable<T> {
     head = tail = null;
   }
 
-  /*
+  /**
    * Constructs a list consisting of a single node.
    * 
    * @param node data.
