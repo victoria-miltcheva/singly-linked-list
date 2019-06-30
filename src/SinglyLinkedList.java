@@ -94,7 +94,7 @@ public class SinglyLinkedList<T> implements Iterable<T> {
     return length;
   }
 
-  /*
+  /**
    * Inserts a new node containing data at a given index.
    */
   public void insert(int index, T data) {
